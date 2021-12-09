@@ -1,3 +1,4 @@
+# printing messages for users who input their names
 usernames=['admin','bola','joel','sammy','eddy']
 name = input("your username ")
 if name=='admin':
